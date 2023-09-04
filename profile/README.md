@@ -28,14 +28,11 @@ For a full understanding of our brand and practices,
 
 At Media Happi AI, we merge innovation with dedication, crafting AI-driven applications and web platforms to enhance user experiences. Through our advanced AI, <a href="https://mediahappi.ai"><b>Happi AI Studio</b></a>, we redefine possibilities in the realm of content creation.
 
-:email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -></b></a> 
-
-
 ---
 
 
 # 🌟 Join Us
-We're always on the lookout for passionate individuals to join our team. Do you love Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings, we want you!
+We're always on the lookout for passionate individuals to join our team. Do you love Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings, we want you! :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -></b></a> 
   
 ## 🖥️ Seeking Laravel Maestros
 Are you passionate about Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings and you can build scalable Laravel apps, we want to work with you NOW!
