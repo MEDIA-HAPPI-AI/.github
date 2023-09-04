@@ -19,8 +19,8 @@ At Media Happi AI, we merge innovation with dedication, crafting AI-driven appli
 
 We're always on the lookout for passionate individuals to join our team. Do you love Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings, we want you!
 
-- :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US</b></a> 
-- :earth_americas: <a href="https://mediahappi.ai"><b>VISIT WEBSITE</b></a> 
+- :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
+- :earth_americas: <a href="https://mediahappi.ai"><b>VISIT WEBSITE -> </b></a> 
 
 Step into the future with Media Happi - <a href="https://mediahappi.ai"><b>Happi AI Studio</b></a>, a powerhouse of AI capabilities that redefines what technology can achieve. Happi AI Studio is not just an AI; it's an ecosystem of innovation. But that is just the start, get ready for something unimaginable, we’re crafting the Future with <a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>, where AI transcends boundaries and fuels your innovative genius.
 
