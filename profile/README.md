@@ -81,12 +81,11 @@ At Media Happi AI, we're trailblazing a path to redefine content creation. With 
   <a href="https://github.com/MEDIA-HAPPI-AI"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://twitter.com/mediahappi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/company/mediahappi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.paypal.com/paypalme/mediahappi"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 </p>
 
 🌐 [Official Website](https://mediahappi.ai)
 📸 [Instagram](https://instagram.com/media_happi)
 💌 [Join Our Discord](https://discord.gg/As8BxpGR)
-
-<a href="https://www.paypal.com/paypalme/mediahappi"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 
 
