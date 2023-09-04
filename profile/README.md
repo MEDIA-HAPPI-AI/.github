@@ -35,13 +35,13 @@ At Media Happi AI, we merge innovation with dedication, crafting AI-driven appli
 We're always on the lookout for passionate individuals to join our team. Do you love Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings, we want you! :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -></b></a> 
   
 ## 🖥️ Seeking Laravel Maestros
-Are you passionate about Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings and you can build scalable Laravel apps, we want to work with you NOW!<br>
+Are you passionate about Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings and you can build scalable Laravel apps, we want to work with you NOW!
 :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
 
 ![Laravel](https://img.shields.io/badge/Laravel-%FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
 
 ## ☁️ AWS Deployment Gurus Wanted
-Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, understand the intricacies of deployment, and can ensure our apps run smoothly in the cloud, we've got jobs available now.<br>
+Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, understand the intricacies of deployment, and can ensure our apps run smoothly in the cloud, we've got jobs available now.
 :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -91,7 +91,6 @@ Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, und
 ![Python](https://img.shields.io/badge/Python-3.8-yellow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4-orange)
 ![Chargbee](https://img.shields.io/badge/Chargebee-integrated-orange)
-![GitHub followers](https://img.shields.io/github/followers/MEDIA-HAPPI-AI?style=social)
 
 Prepare for a cataclysmic upheaval in the realm of content creation. Our mission isn't just to innovate; it's to obliterate conventions. Ethics aren't just a buzzword; they're the cornerstone of AI’s journey, respecting your privacy, diversity, and authenticity.
 
