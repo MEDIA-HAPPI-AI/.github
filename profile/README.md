@@ -74,9 +74,6 @@ Dear Innovators,
 
 At Media Happi AI, we're trailblazing a path to redefine content creation. With over two decades of experience in media powerhouses, we're poised to drive innovation. Our mission? To transform, innovate, and lead with ethics at the helm. Welcome to a revolution. Say hello to Media Happi AI – the adrenaline shot straight into the heart of content creation that will leave you gasping for more! Media Happi AI, where your wildest ideas meet a maverick's determination to rewrite the rules. 
 
-ℹ️ [WILL RUDISILL](https://www.linkedin.com/in/dylanrudisill)
-
-
 ## 📣 Media Happi AI Mission
 <b>Transformation Unleashed:</b> Prepare for a cataclysmic upheaval in the realm of content creation. Our mission isn't just to innovate; it's to obliterate conventions. Ethics aren't just a buzzword; they're the cornerstone of AI’s journey, respecting your privacy, diversity, and authenticity.
 
