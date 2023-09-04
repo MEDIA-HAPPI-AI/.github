@@ -28,11 +28,13 @@ Step into the future with Media Happi - <a href="https://mediahappi.ai"><b>Happi
 
 ## 🖥️ Seeking Laravel Maestros
 Are you passionate about Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings and you can build scalable Laravel apps, we want to work with you NOW!
+:email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
 
 ![Laravel](https://img.shields.io/badge/Laravel-%FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white)
 
 ## ☁️ AWS Deployment Gurus Wanted
 Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, understand the intricacies of deployment, and can ensure our apps run smoothly in the cloud, we've got jobs available now.
+:email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
