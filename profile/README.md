@@ -1,4 +1,4 @@
-![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)
+[![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
 # Media Happi AI
 
@@ -74,7 +74,7 @@ At Media Happi AI, we're trailblazing a path to redefine content creation. With 
 
 
 ---
-![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)
+[![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
 ## 📲 **Connect with Us** 
 <p align="left">
