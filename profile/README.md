@@ -58,11 +58,12 @@ Deployment is an art, and AWS is our canvas. If you're well-versed with AWS, und
 
 ## 💡 **Future Endeavors** 
 
+- **<a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>**: The Most Advanced AI Content Creation.
 - **VideoHappi**: AI Tools for Video Creation, Editing, and Mastering.
 - **HappiWeb**: Next-gen Web Application for Seamless Experiences.
-- **HappiAI**: An Advanced AI Crafted for User Experiences.
 - **HappiMobile**: AI On-the-Go with Our iOS & Android Apps.
 
+  
 ---
 
 ## ✉️ **Letter From Our Founder** 
