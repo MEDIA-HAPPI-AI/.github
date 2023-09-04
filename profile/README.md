@@ -1,9 +1,12 @@
 [![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
-# Media Happi AI
+# Media Happi AI Tech Stack
 
-[![Build Status](https://travis-ci.org/username/projectname.svg?branch=master)](https://travis-ci.org/username/projectname)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
@@ -88,4 +91,20 @@ At Media Happi AI, we're trailblazing a path to redefine content creation. With 
 📸 [Instagram](https://instagram.com/media_happi)
 💌 [Join Our Discord](https://discord.gg/As8BxpGR)
 
+---
+
+
+
+## 🗂️ Current Private Repositories
+- ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white) [HAPPI AI Studio Dashboard V2](https://github.com/MEDIA-HAPPI-AI/app-8-Dashboard)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) [FAN HAPPI: AI Twitter](https://github.com/MEDIA-HAPPI-AI/app-7-tweet)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) [BUZZ HAPPI - AI Email Marketing](https://github.com/MEDIA-HAPPI-AI/app-4-buzz)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) [FAN HAPPI: Wear Creators utilize AI to make money](https://github.com/MEDIA-HAPPI-AI/app-6-fan)
+- ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) [INFLUENCER HAPPI-1: AI-driven Influencer Hiring Platform](https://github.com/MEDIA-HAPPI-AI/app-5-influencer)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) [CHAT HAPPI - AI Chatbot](https://github.com/MEDIA-HAPPI-AI/app-3-chat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [SOCIAL HAPPI - AI Social Media Scheduling](https://github.com/MEDIA-HAPPI-AI/app-2-social)
+- ![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) [HAPPI AI STUDIO - Transforming Content Creation with Advanced AI](https://github.com/MEDIA-HAPPI-AI/app-1-studio)
+
+
+---
 
