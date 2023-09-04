@@ -16,9 +16,10 @@ For a full understanding of our brand and practices,
 <b>read our main [README.md](https://github.com/MEDIA-HAPPI-AI/public/blob/main/README.md).</b>
 <br> Here are some more resources to explore:
 
-- [Brand Guidelines](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md)
-- [Coding Standards](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Coding%20Standards.md)
-- [Ethical AI](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md)
+- [Brand Guidelines ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md)
+- [Coding Standards ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Coding%20Standards.md)
+- [Ethical AI ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md)
+- [Offical Website ->](https://MEDIAHAPPI.AI)
 
 ---
 
@@ -27,19 +28,14 @@ For a full understanding of our brand and practices,
 
 At Media Happi AI, we merge innovation with dedication, crafting AI-driven applications and web platforms to enhance user experiences. Through our advanced AI, <a href="https://mediahappi.ai"><b>Happi AI Studio</b></a>, we redefine possibilities in the realm of content creation.
 
-- :email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -> </b></a> 
-- :earth_americas: <a href="https://mediahappi.ai"><b>VISIT WEBSITE -> </b></a> 
+:email: <a href="mailto:mediahappi@gmail.com"><b>EMAIL US -></b></a> 
 
-We’re crafting the Future with <a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>
 
 ---
 
 
 # 🌟 Join Us
 We're always on the lookout for passionate individuals to join our team. Do you love Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings, we want you!
-- **Innovative Projects**: Work on cutting-edge projects that challenge and inspire.
-- **Collaborative Environment**: Join a team where your voice is heard and collaboration is celebrated.
-- **Continuous Learning**: With us, every day is an opportunity to learn, grow, and innovate.
   
 ## 🖥️ Seeking Laravel Maestros
 Are you passionate about Laravel? Do you thrive on challenges and love creating seamless applications? If your code sings and you can build scalable Laravel apps, we want to work with you NOW!
@@ -107,7 +103,7 @@ Prepare for a cataclysmic upheaval in the realm of content creation. Our mission
 
 
 
-©️ 2023 MEDIA HAPPI LLC | CHICAGO, IL USA
+©️ 2023 <a href="https://mediahappi.ai"><b>MEDIA HAPPI LLC</a> | CHICAGO, IL USA </b> - We’re crafting the Future with <a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>
 
 ---
 
