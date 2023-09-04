@@ -12,7 +12,7 @@
 
 ## :rocket: **The Future of AI-Powered Creativity** 
 
-At Media Happi AI, we merge innovation with dedication, crafting AI-driven applications and web platforms to enhance user experiences. Through our advanced AI, Happi AI Studio, we redefine possibilities in the realm of content creation.
+At Media Happi AI, we merge innovation with dedication, crafting AI-driven applications and web platforms to enhance user experiences. Through our advanced AI, <a href="https://mediahappi.ai"><b>Happi AI Studio</b></a>, we redefine possibilities in the realm of content creation.
 
 ---
 ## :people_holding_hands: Join Media Happi
@@ -22,7 +22,7 @@ We're always on the lookout for passionate individuals to join our team. Do you 
 - :email: hi@mediahappi.AI
 - :earth_americas: https://mediahappi.ai
 
-Step into the future with Media Happi - <a href="https://mediahappi.ai"><b>Happi AI Studio</b></a>, a powerhouse of AI capabilities that redefines what technology can achieve. <a href="https://mediahappi.ai">Happi AI Studio</a> is not just an AI; it's an ecosystem of innovation. From generating images that match your text descriptions to crafting engaging chatbot interactions, <a href="https://mediahappi.ai">Happi AI Studio</a> transcends boundaries and fuels your creative genius. And we’re crafting the Future with <a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>.
+Step into the future with Media Happi - <a href="https://mediahappi.ai"><b>Happi AI Studio</b></a>, a powerhouse of AI capabilities that redefines what technology can achieve. Happi AI Studio is not just an AI; it's an ecosystem of innovation. Happi AI Studio transcends boundaries and fuels your creative genius. And get ready for something unimaginable, we’re crafting the Future with <a href="https://www.QuantumDLM.com"><b>Quantum DLM</b></a>.
 
 ---
 
