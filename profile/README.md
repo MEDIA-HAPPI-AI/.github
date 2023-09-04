@@ -12,13 +12,13 @@
 
 ### 😃 Dive Deeper with Media Happi
 
-For a holistic understanding of our brand and practices, we highly recommend checking our main [README.md](./README.md) in the `public` directory. Here are some more resources to explore:
+For a full understanding of our brand and practices, 
+<b>read our main [README.md](https://github.com/MEDIA-HAPPI-AI/public/blob/main/README.md).</b>
+<br> Here are some more resources to explore:
 
-- [Brand Guidelines](./Brand%20Guidlines.md)
-- [Coding Standards](./Coding%20Standards.md)
-- [Ethical AI](./Ethical%20AI.md)
-
-Let's make the digital world more harmonious and ethically sound with Media Happi AI!
+- [Brand Guidelines](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md)
+- [Coding Standards](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Coding%20Standards.md)
+- [Ethical AI](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md)
 
 ---
 
