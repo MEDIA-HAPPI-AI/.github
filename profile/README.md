@@ -1,6 +1,6 @@
 [![Media Happi AI Logo](https://mediahappi.ai/wp-content/uploads/2023/05/online-logo-creator-for-electronics-companies-with-circuit-board-clipart-2176b-16-copy-3.png)](https://mediahappi.ai)
 
-[![Visit MediaHappi.AI](https://img.shields.io/badge/Visit-MediaHappi.AI-blue?style=for-the-badge&logo=appveyor)](https://MediaHappi.AI)
+[![Visit MediaHappi.AI](https://img.shields.io/badge/Visit-MediaHappi.AI-blue?style=for-the-badge&logo=appveyor)](https://MediaHappi.com)
 
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
