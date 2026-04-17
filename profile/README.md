@@ -145,4 +145,7 @@ Through <a href="https://mediahappi.com"><b>Media Happi AI</b></a>, we are redef
 © MEDIA HAPPI LLC  
 Chicago • San Francisco  
 
-Building the future of AI with Media Happi and under the hood it's our girl <a href="https://jeanneai.tech/"><b>Jeannie AI</b></a>
+Building the future of AI with 
+  <a href="https://mediahappi.com"><b>Media Happi</b></a> — 
+  powered behind the scenes by our girl 
+  <a href="https://jeanneai.tech/"><b>Jeanne AI</b></a>.
