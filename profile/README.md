@@ -16,8 +16,8 @@
 
 ---
 
-### 😃 Media Happi Documentation
-# 📚 Full Technical Documentation
+## 😃 Media Happi Documentation
+### 📚 Full Technical Documentation
 
 Welcome to the **MediaHappi AI Studio** technical documentation. This folder contains all the guides, references, and roadmaps for the project.
 
