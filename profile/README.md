@@ -17,11 +17,29 @@
 ---
 
 ### 😃 Media Happi Documentation
+# 📚 Full Technical Documentation
 
-For a full understanding of our brand and practices,  
-<b>read our main [README.md](https://github.com/MEDIA-HAPPI-AI/public/blob/main/README.md).</b>  
-<br> Here are additional resources:
+Welcome to the **MediaHappi AI Studio** technical documentation. This folder contains all the guides, references, and roadmaps for the project.
 
+## 📄 Documentation Index
+
+### Core Documentation
+- [Project Completion Summary](./PROJECT-COMPLETION-SUMMARY.md) - Final checklist and success criteria.
+- [AI Workflow Notes](./ai-workflow-notes.md) - The rulebook for any AI agent working on this codebase.
+
+### System & Architecture
+- [System Overview](./system-overview.md) - High-level description of the SaaS.
+- [Architecture Map](./architecture.md) - Deep dive into the Laravel backend and frontend structure.
+
+### Development & Setup
+- [Local Development Setup Guide](./setup-guide.md) - Step-by-step instructions to run the project.
+
+### Planning
+- [Feature Roadmap](./feature-roadmap.md) - Current progress and future plans (Phases 2-5).
+- [Injection Points](./injection-points.md) - Maps where custom code can be safely added.
+- [Design System](./design-system.md) - MediaHappi brand colors, typography, and UI rules.
+
+### Here are additional resources:
 - [Brand Guidelines ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Brand%20Guidlines.md)
 - [Coding Standards ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Coding%20Standards.md)
 - [Ethical AI ->](https://github.com/MEDIA-HAPPI-AI/public/blob/main/Ethical%20AI.md)
